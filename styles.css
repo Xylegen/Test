@@ -1,0 +1,43 @@
+h1{
+  color:yellow;
+}
+p
+{
+  color:blue;
+}
+div{
+  background-color: teal;
+  color: purple;
+  height: 70%;
+  margin: 40px;
+  padding:20px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+    border: 20px solid yellow;
+
+}
+table{
+  border: 4px solid black;
+  border-collapse: collapse;
+}
+th,td{
+  border: 2px solid black;
+  padding: 8px;
+  width: 30%;
+}
+th{
+  background-color: lightgrey;
+}
+#bottomtop{
+  font-size: 12px;
+}
+#bottommiddle{
+  font-size: 14px;
+}
+#bottomend{
+  font-size: 16px;
+  font-family: fantasy;
+}
+.name{
+  font-weight: 600;
+}
